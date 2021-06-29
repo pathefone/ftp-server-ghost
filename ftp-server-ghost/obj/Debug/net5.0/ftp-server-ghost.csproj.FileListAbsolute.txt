@@ -1,0 +1,16 @@
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\bin\Debug\net5.0\ftp-server-ghost.exe
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\bin\Debug\net5.0\ftp-server-ghost.deps.json
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\bin\Debug\net5.0\ftp-server-ghost.runtimeconfig.json
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\bin\Debug\net5.0\ftp-server-ghost.runtimeconfig.dev.json
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\bin\Debug\net5.0\ftp-server-ghost.dll
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\bin\Debug\net5.0\ref\ftp-server-ghost.dll
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\bin\Debug\net5.0\ftp-server-ghost.pdb
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ftp-server-ghost.csproj.AssemblyReference.cache
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ftp-server-ghost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ftp-server-ghost.AssemblyInfoInputs.cache
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ftp-server-ghost.AssemblyInfo.cs
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ftp-server-ghost.csproj.CoreCompileInputs.cache
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ftp-server-ghost.dll
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ref\ftp-server-ghost.dll
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ftp-server-ghost.pdb
+C:\Users\LimitedEditionBOo\source\repos\ftp-server-ghost\ftp-server-ghost\obj\Debug\net5.0\ftp-server-ghost.genruntimeconfig.cache
